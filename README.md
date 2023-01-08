@@ -1,3 +1,3 @@
 # CodeTest
-To ready coding test
-<p>이것이 취업을 위한 코딩테스트다 with python
+- To ready coding test
+- <p>이것이 취업을 위한 코딩테스트다 with python
